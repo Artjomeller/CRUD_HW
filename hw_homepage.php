@@ -1,4 +1,4 @@
-<h2 class="text-center">Avaleht - Sirvi kogu tabelit</h2>
+<h2 class="text-center">Kodutöö leht - Sirvi kogu tabelit</h2>
 <?php
 // Lisame siia leheküljendamise
 include 'hw_paginate.php';
