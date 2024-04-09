@@ -32,7 +32,7 @@ if($res !== FALSE) {
         $added = $dateTime->format('d.m.Y H:i:s');
         ?>
         <tr>
-            <td class="text-center"><?php echo $start + $key; ?></td>
+            <td class="text-center"><?php echo $start + $key . '.'; ?></td>
             <td class="text-center"><?php echo $val['name']; ?></td>
             <td class="text-center"><?php echo $birth; ?></td>
             <td class="text-center"><?php echo $val['salary']; ?></td>
