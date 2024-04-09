@@ -10,7 +10,7 @@ if($res !== FALSE) {
 
 ?>
 
-<table class="table table-hover table-bordered">
+<table class="table table-bordered table-striped table-hover mt-2">
     <thead>
         <tr class="text-center">
             <th>Jrk.</th>
